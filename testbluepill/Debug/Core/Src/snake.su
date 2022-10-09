@@ -1,0 +1,5 @@
+snake.c:4:6:SnakeUpdatePos	16	static
+snake.c:19:6:SnakeCheckApple	8	static
+snake.c:30:6:SnakeDraw	32	static
+snake.c:41:6:SnakeClear	32	static
+snake.c:48:6:SnakeMain	8	static
